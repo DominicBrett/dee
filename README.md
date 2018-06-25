@@ -1,0 +1,2 @@
+# dee
+Very Simple programming language written in Python. tokenize() turns the "main.dee" file into a 2d array. Each line is then interpreted by readCode() which checks each token (word) in each line of code for a key word. Each line of code is allowed one keyword. Once the keyword is found the appropriate code is executed with the variables at a specific position in the list that represents that line of code.
